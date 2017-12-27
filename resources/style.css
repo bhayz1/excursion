@@ -1,3 +1,7 @@
-.title {
-  color: blue;
+h1 {
+  font-family: Verdana;
+  font-weight: Normal;
+  font-size: 50px;
+  font-color: White;
+  text-align: center;
 }
